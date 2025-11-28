@@ -2,6 +2,7 @@ Project Overview
 This project is a Resume Maker written in C.
 It allows users to create, store, view, edit, delete, and export resumes,through a simple text-based menu.
 The resume data is saved in a binary file (resumes.dat), and users can export any resume into a readable .txt file.
+
 This project demonstrates concepts like:-
 1.File handling in C
 2.Working with structures
