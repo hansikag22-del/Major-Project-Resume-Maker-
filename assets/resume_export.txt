@@ -1,0 +1,24 @@
+Name: Priya Sharma
+Email: priya2@gmail.com
+Phone: 9876543210
+Address: New Delhi, Indias
+
+objective:
+To secure a responsible position in a reputable orginazation and enhance my skills.
+
+Skills:
+C,C++,JAVA,CSS,DSA,Communication,Leardership.
+
+Education:
+B.Tech in Computer Science,SIT Pune(2022-2026)
+
+Experience:
+Intern at Microsoft(June 2024 - July 2024)
+Certification:
+Python Programming Certification,AWS Certification.
+Hobbies:
+Reading,Cooking,Swimming,Painting
+
+Languages:
+English,Hindi
+
